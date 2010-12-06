@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <head>
-  <title>Midijunkies will fuck you up.</title>
+  <title>0xf.nl &raquo; Midijunkies will fuck you up.</title>
   <link rel="stylesheet" href="http://trouble.0xf.nl/css_lib/grid.css" type="text/css"/> 
   <link rel="stylesheet" href="http://trouble.0xf.nl/css_lib/fileuploader.css" type="text/css"> 
   <link rel="stylesheet" href="http://trouble.0xf.nl/css/main.css" type="text/css"/> 
-  <script src="http://trouble.0xf.nl/js_lib/jquery.js" type="text/javascript"></script> 
+  <script src="http://trouble.0xf.nl/js_lib/jquery.js" type="text/javascript"></script>
+  <link rel="canonical" href="http://trouble.0xf.nl/<?=$canonical?>" />
+  <meta name="Description" content="0xf.nl, Midijunkies will fuck you up. Questioning the powers that be is one of our main responsibility as inhabitants of this planet.">
 </head>
 <body>
 

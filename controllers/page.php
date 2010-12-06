@@ -12,7 +12,7 @@ import('core.utils.mobile');
 class Page extends \Core\Controller {
     private $template;
     private $pages = array(
-        'home' => 'Home',
+        'index' => 'Home',
         'student' => 'Student Protest Advice'
     );
     private function init() {
@@ -25,10 +25,11 @@ class Page extends \Core\Controller {
         $this->template = $t;
     }
     public function index() {
-        $page = strlen($this->args['page']) > 0 ? $this->args['page'] : 'home';
+        $page = strlen($this->args['page']) > 0 ? $this->args['page'] : 'index';
         if(isset($this->pages[$page])) {
             $this->init();
             $this->template->content = $this->get_page($page);
+            $this->template->canonical = $page . ".html";
             echo $this->template->render('standard_page.php');
         } else {
             throw new \Core\HTTPError(404, $page);
