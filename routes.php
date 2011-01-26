@@ -1,4 +1,4 @@
-<?php // Routes
+<?php // Routeses
 
 $routes = array(
 	'^(.*?)?(.html)?$' => 'Page:page=$1;'
