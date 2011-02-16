@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <head>
+  <?=($is_mobile ? '<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />' : null)?>
   <title>0xf.nl &raquo; Midijunkies gonna fuck you up.</title>
+  <link rel="stylesheet" href="http://0xf.nl/css_lib/reset.css" type="text/css"/>
   <link rel="stylesheet" href="http://0xf.nl/css_lib/grid.css" type="text/css"/> 
-  <link rel="stylesheet" href="http://0xf.nl/css_lib/fileuploader.css" type="text/css"> 
+  <link rel="stylesheet" href="http://0xf.nl/css_lib/fileuploader.css" type="text/css">
   <link rel="stylesheet" href="http://0xf.nl/css/subverse.css" type="text/css"/> 
   <script src="http://trouble.0xf.nl/js_lib/jquery.js" type="text/javascript"></script>
   <link rel="canonical" href="http://trouble.0xf.nl/<?=$canonical?>" />
@@ -11,10 +13,6 @@
 <body>
 <div class="container_12">
 <div class="grid_6" id="content">  
-
-<?=$content?>
-</div>
-<div class="grid_6" id="content">
 
 <?=$content?>
 <p><a href="http://nginx.org/"><img src="/button_nginx.png" alt="Powered by Nginx" /></a></p>
