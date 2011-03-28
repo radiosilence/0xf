@@ -1,6 +1,6 @@
 <?php // Routeses
 
 $routes = array(
-	'^(.*?)?(.html)?$' => 'Page:page=$1;__cache__=on'
+	'^(.*?)?(.html)?$' => 'Page:page=$1'
 );
 

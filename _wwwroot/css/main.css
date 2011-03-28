@@ -1,0 +1,7 @@
+h1#midi a {
+    display: block;
+    width: 666px;
+    height: 38px;
+    background-image: url('/img/midijunkies.png');
+    text-indent: -9999px;
+}
