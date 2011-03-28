@@ -8,7 +8,8 @@ Other perhaps useful things...
 
 It's important to note that the concept of human rights is something that transcends legislation, they are things that we and many others earn by sticking up and fighting for them, not because some people tell us we're allowed them.
 
-## And incase anyone had forgotten...
+## And in case anyone had forgotten...
+
 [![Scum](http://i.imgur.com/2Pjytl.jpg)](http://i.imgur.com/2Pjyt.jpg)
 
 With people on the streets, these people are cunts to say the least.
