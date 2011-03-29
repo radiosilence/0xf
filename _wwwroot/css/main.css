@@ -1,7 +1,17 @@
-h1#midi a {
+header h1 a#asd {
     display: block;
-    width: 666px;
-    height: 38px;
-    background-image: url('/img/midijunkies.png');
+    width: 300px;
+    height: 256px;
+    background-image: url('/img/0xf.nl.png');
     text-indent: -9999px;
+}
+
+body {
+    background-image: url('/img/noise.png');
+}
+
+article p {
+}
+article img {
+    margin: 1em;
 }

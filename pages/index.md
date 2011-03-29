@@ -2,7 +2,7 @@ Will you be oblivious, looking after yourself, or will you see the bigger pictur
 
 Other perhaps useful things...
  
- * [Some Facts About 26/03/2011](26th.html)
+ * [Some Facts About March for the Alternative - 26/03/2011](26th.html)
  * [FITWatch advice to students Re: Nov '10 London Protests](student.html)
  * [0xF.nl Mirror of Wikileaks](http://wikileaks.0xf.nl)
 
