@@ -9,8 +9,6 @@ import('core.controller');
 import('core.template');
 import('core.exceptions');
 import('core.utils.mobile');
-import('3rdparty.markdown');
-import('3rdparty.smartypants');
 
 class Page extends \Core\Controller {
     private $_pages = array(
@@ -47,7 +45,15 @@ class Page extends \Core\Controller {
             include $filename;
             $contents = ob_get_contents();
             ob_end_clean();
-            return \Smartypants(\Markdown($contents));
+            if(extension_loaded('discount')) {
+                $md = \MarkdownDocument::createFromString($contents);
+                $md->compile();
+                return $md->getHtml();
+            } else {            
+                import('3rdparty.markdown');
+                import('3rdparty.smartypants');
+                return \Smartypants(\Markdown($contents));
+            }
         }
         throw new \Core\FileNotFoundError($filename);
     }
