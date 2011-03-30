@@ -4,7 +4,7 @@ Other perhaps useful things...
  
  * [Some Facts About March for the Alternative - 26/03/2011](26th.html)
  * [FITWatch advice to students Re: Nov '10 London Protests](student.html)
- * [0xF.nl Mirror of Wikileaks](http://wikileaks.0xf.nl)
+ * [0xf.nl Mirror of Wikileaks](http://wikileaks.0xf.nl)
 
 It's important to note that the concept of human rights is something that transcends legislation, they are things that we and many others earn by sticking up and fighting for them, not because some people tell us we're allowed them.
 

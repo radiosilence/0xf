@@ -2,12 +2,10 @@
 <head>
   <?=($is_mobile ? '<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />' : null)?>
   <title><?=($title ? "{$title} &ndash; " :null)?>0xf.nl &raquo; Midijunkies gonna fuck you up.</title>
-  <link rel="stylesheet" href="/css_lib/reset.css" type="text/css"/>
-  <link rel="stylesheet" href="/css_lib/grid.css" type="text/css"/> 
-  <link rel="stylesheet" href="/css_lib/fileuploader.css" type="text/css">
   <link rel="stylesheet" href="/css_lib/subverse.css" type="text/css"/> 
   <link rel="stylesheet" href="/css/main.css" type="text/css"/> 
   <script src="/js_lib/jquery.js" type="text/javascript"></script>
+  <script src="/js_lib/jquery-lightbox.js" type="text/javascript"></script>
   <script src="/js_lib/jquery-ui.js" type="text/javascript"></script>
   <script src="/js_lib/common.js" type="text/javascript"></script>
   <link rel="canonical" href="http://trouble.0xf.nl/<?=$canonical?>" />
