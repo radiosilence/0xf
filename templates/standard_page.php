@@ -8,13 +8,13 @@
   <script src="/js_lib/jquery-lightbox.js" type="text/javascript"></script>
   <script src="/js_lib/jquery-ui.js" type="text/javascript"></script>
   <script src="/js_lib/common.js" type="text/javascript"></script>
-  <link rel="canonical" href="http://trouble.0xf.nl/<?=$canonical?>" />
+  <link rel="canonical" href="http://0xf.nl/<?=$canonical?>" />
   <meta name="Description" content="<?=($title ? "{$title} &ndash; 0xf.nl" : '0xf.nl &ndash; Midijunkies gonna fuck you up.')?>">
 </head>
 <body>
 <div class="container_12">
   
-  <header class="grid_5"><h1><a href="http://0xf.nl" title="0xf.nl"><img src="/img/0xf.nl.png"/></a></h1></header>
+  <header class="grid_5"><h1><a href="http://0xf.nl" title="0xf.nl" id="asd">0xf.nl &ndash; Midijunkies gonna fuck you up.</a></h1></header>
   <div class="grid_8" id="content">  
     <article>
       <?=$content?>

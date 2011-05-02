@@ -12,4 +12,27 @@ It's important to note that the concept of human rights is something that transc
 
 [![Scum](http://i.imgur.com/2Pjytl.jpg)](http://i.imgur.com/2Pjyt.jpg)
 
-With people on the streets, these people are cunts to say the least.
+> The bum on the rods is hunted down  
+> As the enemy of mankind  
+> The other is driven around to his club  
+> Is feted, wined and dined.  
+> And they who curse the bum on the rods  
+> As the essence of all that is bad,  
+> Will greet the other with a winning smile,  
+> And extend the hand so glad.  
+> The bum on the rods is a social flea  
+> Who gets an occasional bite,  
+> The bum on the plush is a social leech,  
+> blood sucking day and night.  
+> The bum on the rod is a load so light  
+> That his weight we scarcely feel,  
+> But it takes the labor of dozen of men  
+> To furnish the other a meal.  
+> As long as you sanction the bum on the plush  
+> The other will always be there,  
+> But rid yourself of the bum on the plush  
+> And the other will disappear.  
+> Then make an intelligent, organized kick  
+> Get rid of the weights that crush.  
+> Don't worry about the bum on the rods,  
+> Get rid of the bum on the plush.  
